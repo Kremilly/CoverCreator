@@ -1,4 +1,4 @@
-# PostCoverCreator
+# CoverCreator
 
 The tool that allows you to create a custom cover image using a background image, scaling it to a specified percentage, adding overlaid text, and saving the output as an image file.
 
@@ -7,8 +7,8 @@ The tool that allows you to create a custom cover image using a background image
 Clone this repository
 
 ```shell
-git clone https://github.com/kremilly/PostCoverCreator.git
-cd PostCoverCreator
+git clone https://github.com/kremilly/CoverCreator.git
+cd CoverCreator
 ```
 
 Install the dependencies using PIP
